@@ -1,0 +1,7 @@
+.replit
+replit.nix
+.breakpoints
+json.sqlite
+package-lock.json
+
+node_modules/
