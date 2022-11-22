@@ -20,9 +20,11 @@ git clone https://github.com/proudparrot2/snowballer.git
 cd Snowballer
 ```
 
-3. Rename `.env.example` to `.env` and fill it out
-```
-TOKEN=
+3. Fill out config.json
+```json
+{
+  "token": "CHANGEME"  
+}
 ```
 
 4. Run with NodeJS (version 16 or higher is required)
